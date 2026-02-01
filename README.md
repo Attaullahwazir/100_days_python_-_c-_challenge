@@ -1,4 +1,4 @@
-# 100_days_python_-_c-_challenge
+# 100_days_python_C++_challenge
 i am starting this challenge of 100 days where i solve 2 problem in a day in python and c++..
 
 
