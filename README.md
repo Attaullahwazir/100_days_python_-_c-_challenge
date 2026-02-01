@@ -2,8 +2,8 @@
 i am starting this challenge of 100 days where i solve 2 problem in a day in python and c++..
 
 
-1) Hello World and Basic Input/Output
-2) Simple Calculator (Add, Subtract, Multiply, Divide)
+1) Hello World and Basic Input/Output    Completed
+2) Simple Calculator (Add, Subtract, Multiply, Divide)  Completed
 3) Even or Odd Number Checker
 4) Swap Two Numbers
 5) Find Maximum of Three Numbers
