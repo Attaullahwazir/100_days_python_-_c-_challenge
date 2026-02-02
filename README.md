@@ -1,37 +1,41 @@
 # 100_days_python_C++_challenge
 i am starting this challenge of 100 days where i solve 2 problem in a day in python and c++..
 
+Day1: 
+1) Hello World and Basic Input/Output   status: Completed
+2) Simple Calculator (Add, Subtract, Multiply, Divide)   status: Completed
 
-1) Hello World and Basic Input/Output
-2) Simple Calculator (Add, Subtract, Multiply, Divide)
-3) Even or Odd Number Checker
-4) Swap Two Numbers
-5) Find Maximum of Three Numbers
-6) Calculate Simple Interest
-7) Temperature Converter (Celsius to Fahrenheit)
-8) Area and Perimeter of Rectangle
-9) Check Leap Year
-10) Sum of First N Natural Numbers
-11) Factorial of a Number
-12) Reverse a Number
-13) Check Palindrome Number
-14) Armstrong Number Checker
-15) Prime Number Checker
-16) Print Fibonacci Series up to N Terms
-17) Find GCD of Two Numbers
-18) Find LCM of Two Numbers
-19) Sum of Digits of a Number
-20) Count Number of Digits
-21) Check if Number is Perfect Square
-22) Print Multiplication Table
-23) Power of a Number (Without Built-in Functions)
-24) Check if Number is Perfect Number
-25) Find All Divisors of a Number
-26) Convert Binary to Decimal
-27) Convert Decimal to Binary
-28) Convert Decimal to Hexadecimal
-29) ASCII Value Operations
-30) Calculate Compound Interest
+Day2:
+4) Even or Odd Number Checker  status: Completed
+5) Swap Two Numbers    status: Completed
+
+Day3:
+6) Find Maximum of Three Numbers
+7) Calculate Simple Interest
+8) Temperature Converter (Celsius to Fahrenheit)
+9) Area and Perimeter of Rectangle
+10) Check Leap Year
+11) Sum of First N Natural Numbers
+12) Factorial of a Number
+13) Reverse a Number
+14) Check Palindrome Number
+15) Armstrong Number Checker
+16) Prime Number Checker
+17) Print Fibonacci Series up to N Terms
+18) Find GCD of Two Numbers
+19) Find LCM of Two Numbers
+20) Sum of Digits of a Number
+21) Count Number of Digits
+22) Check if Number is Perfect Square
+23) Print Multiplication Table
+24) Power of a Number (Without Built-in Functions)
+25) Check if Number is Perfect Number
+26) Find All Divisors of a Number
+27) Convert Binary to Decimal
+28) Convert Decimal to Binary
+29) Convert Decimal to Hexadecimal
+30) ASCII Value Operations
+31) Calculate Compound Interest
 
 Arrays & Lists (31-60)
 
