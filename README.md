@@ -2,12 +2,12 @@
 ***i am starting this challenge of 100 days where i solve 2 problems in a day in python and c++..***
 
 ## Day1: 
-# 1) Hello World and Basic Input/Output   **status: Completed✔**
-# 2) Simple Calculator (Add, Subtract, Multiply, Divide)   ***status: Completed✔**
+#### 1) Hello World and Basic Input/Output   **status: Completed✔**
+#### 2) Simple Calculator (Add, Subtract, Multiply, Divide)   ***status: Completed✔**
 
 ## Day2:
-# 3) Even or Odd Number Checker  ***status: Completed✔**
-# 4) Swap Two Numbers    ***status: Completed✔**
+#### 3) Even or Odd Number Checker  ***status: Completed✔**
+#### 4) Swap Two Numbers    ***status: Completed✔**
 
 Day3:
 6) Find Maximum of Three Numbers
