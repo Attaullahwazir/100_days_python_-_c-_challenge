@@ -10,8 +10,8 @@
 ##### 4) Swap Two Numbers                     ***(status: Completed✔)***
 
 ## Day3:
-##### 5) Find Maximum of Three Numbers   ***(status: Incomplete❌)***
-##### 6) Calculate Simple Interest       ***(status: Incomplete❌)***
+##### 5) Find Maximum of Three Numbers   ***(status: Completed✔)***
+##### 6) Calculate Simple Interest       ***(status: Completed✔)***
 
 ## Day4:
 ##### 7) Temperature Converter (Celsius to Fahrenheit)   ***(status: Incomplete❌)***
