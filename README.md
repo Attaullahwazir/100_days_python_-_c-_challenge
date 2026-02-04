@@ -1,5 +1,5 @@
 # 100_days_python_C++_challenge
-***i am starting this challenge of 100 days where i solve 2 problems in a day in python and c++..***
+***i am starting this challenge of 100 days where i solve 2 problems in a day in python and c++...***
 
 ## Day1: 
 ##### 1) Hello World and Basic Input/Output                          ***(status: Completed✔)***
