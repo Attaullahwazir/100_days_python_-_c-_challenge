@@ -15,7 +15,7 @@
 
 ## Day4:
 ##### 7) Temperature Converter (Celsius to Fahrenheit)   ***(status: Completed✔)***
-##### 8) Area and Perimeter of Rectangle                 ***(status: Incomplete❌)***
+##### 8) Area and Perimeter of Rectangle                 ***(status: Incomplete)***
 
 ## Day5:
 ##### 10) Check Leap Year                     ***(status: Incomplete❌)***
