@@ -14,7 +14,7 @@
 ##### 6) Calculate Simple Interest       ***(status: Completed✔)***
 
 ## Day4:
-##### 7) Temperature Converter (Celsius to Fahrenheit)   ***(status: Incomplete❌)***
+##### 7) Temperature Converter (Celsius to Fahrenheit)   ***(status: Completed✔)***
 ##### 8) Area and Perimeter of Rectangle                 ***(status: Incomplete❌)***
 
 ## Day5:
