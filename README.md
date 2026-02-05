@@ -18,7 +18,7 @@
 ##### 8) Area and Perimeter of Rectangle                 ***(status: Completed✔)***
 
 ## Day5:
-##### 10) Check Leap Year                     ***(status: Completed✔)***
+##### 10) Check Leap Year.                     ***(status: Completed✔)***
 ##### 11) Sum of First N Natural Numbers      ***(status: Completed✔)***
 
 ## Day6:
