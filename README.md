@@ -22,7 +22,7 @@
 ##### 11) Sum of First N Natural Numbers      ***(status: Completed✔)***
 
 ## Day6:
-##### 12) Factorial of a Number   ***(status: Incomplete❌)***
+##### 12) Factorial of a Number   ***(status: complete❌)***
 ##### 13) Reverse a Number       ***(status: Incomplete❌)***
 
 ## Day7:
