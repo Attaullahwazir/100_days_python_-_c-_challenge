@@ -23,7 +23,7 @@
 
 ## Day6:
 ##### 12) Factorial of a Number   ***(status: Completed✔)***
-##### 13) Reverse a Number       ***(status: complete❌)***
+##### 13) Reverse a Number       ***(status: Completed✔)***
 
 ## Day7:
 ##### 14) Check Palindrome Number     ***(status: Incomplete❌)***
