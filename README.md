@@ -31,7 +31,7 @@
 
 ## Day8:
 ##### 16) Prime Number Checker                 ***(status: Completed✔)***
-##### 17) Print Fibonacci Series up to N Terms ***(status: Incomplete❌)***
+##### 17) Print Fibonacci Series up to N Terms ***(status: Completed✔)***
 
 ## Day9:
 ##### 18) Find GCD of Two Numbers   ***(status: Incomplete❌)***
