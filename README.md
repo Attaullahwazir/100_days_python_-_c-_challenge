@@ -30,7 +30,7 @@
 ##### 15) Armstrong Number Checker    ***(status: Completed✔)***
 
 ## Day8:
-##### 16) Prime Number Checker                 ***(status: Incomplete❌)***
+##### 16) Prime Number Checker                 ***(status: Completed✔)***
 ##### 17) Print Fibonacci Series up to N Terms ***(status: Incomplete❌)***
 
 ## Day9:
