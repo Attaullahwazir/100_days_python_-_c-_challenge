@@ -26,7 +26,7 @@
 ##### 13) Reverse a Number       ***(status: Completed✔)***
 
 ## Day7:
-##### 14) Check Palindrome Number     ***(status: Incomplete❌)***
+##### 14) Check Palindrome Number     ***(status: Incomplete)***
 ##### 15) Armstrong Number Checker    ***(status: Incomplete❌)***
 
 ## Day8:
