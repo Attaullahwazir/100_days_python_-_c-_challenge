@@ -27,7 +27,7 @@
 
 ## Day7:
 ##### 14) Check Palindrome Number     ***(status: Incomplete)***
-##### 15) Armstrong Number Checker    ***(status: Incomplete❌)***
+##### 15) Armstrong Number Checker    ***(status: Incomplete)***
 
 ## Day8:
 ##### 16) Prime Number Checker                 ***(status: Incomplete❌)***
