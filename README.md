@@ -38,8 +38,8 @@
 ##### 19) Find LCM of Two Numbers   ***(status: Completed✔)***
 
 ## Day10:
-##### 20) Sum of Digits of a Number   ***(status: Incomplete❌)***
-##### 21) Count Number of Digits      ***(status: Incomplete❌)***
+##### 20) Sum of Digits of a Number   ***(status: Completed✔)***
+##### 21) Count Number of Digits      ***(status: Completed✔)***
 
 ## Day11:
 ##### 22) Check if Number is Perfect Square   ***(status: Incomplete❌)***
