@@ -34,8 +34,8 @@
 ##### 17) Print Fibonacci Series up to N Terms ***(status: Completed✔)***
 
 ## Day9:
-##### 18) Find GCD of Two Numbers   ***(status: Incomplete)***
-##### 19) Find LCM of Two Numbers   ***(status: Incomplete)***
+##### 18) Find GCD of Two Numbers   ***(status: Completed✔)***
+##### 19) Find LCM of Two Numbers   ***(status: Completed✔)***
 
 ## Day10:
 ##### 20) Sum of Digits of a Number   ***(status: Incomplete❌)***
