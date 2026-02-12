@@ -43,7 +43,7 @@
 
 ## Day11:
 ##### 22) Check if Number is Perfect Square   ***(status: Completed✔)***
-##### 23) Print Multiplication Table          ***(status: Incomplete❌)***
+##### 23) Print Multiplication Table          ***(status: Completed✔)***
 
 ## Day12:
 ##### 24) Power of a Number (Without Built-in Functions)   ***(status: Incomplete❌)***
