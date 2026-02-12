@@ -42,7 +42,7 @@
 ##### 21) Count Number of Digits      ***(status: Completed✔)***
 
 ## Day11:
-##### 22) Check if Number is Perfect Square   ***(status: Incomplete❌)***
+##### 22) Check if Number is Perfect Square   ***(status: Completed✔)***
 ##### 23) Print Multiplication Table          ***(status: Incomplete❌)***
 
 ## Day12:
