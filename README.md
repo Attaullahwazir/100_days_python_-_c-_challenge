@@ -46,8 +46,8 @@
 ##### 23) Print Multiplication Table          ***(status: Completed✔)***
 
 ## Day12:
-##### 24) Power of a Number (Without Built-in Functions)   ***(status: Incomplete❌)***
-##### 25) Check if Number is Perfect Number                 ***(status: Incomplete❌)***
+##### 24) Power of a Number (Without Built-in Functions)   ***(status: Completed✔)***
+##### 25) Check if Number is Perfect Number                 ***(status: Completed✔)***
 
 ## Day13:
 ##### 26) Find All Divisors of a Number   ***(status: Incomplete❌)***
