@@ -54,8 +54,8 @@
 ##### 27) Convert Binary to Decimal      ***(status: Incomplete❌)***
 
 ## Day14:
-##### 28) Convert Decimal to Binary        ***(status: Incomplete❌)***
-##### 29) Convert Decimal to Hexadecimal   ***(status: Incomplete❌)***
+##### 28) Convert Decimal to Binary        ***(status: Completed✔)***
+##### 29) Convert Decimal to Hexadecimal   ***(status: Completed✔)***
 
 ## Day15:
 ##### 30) ASCII Value Operations      ***(status: Incomplete❌)***
