@@ -49,7 +49,7 @@
 ##### 24) Power of a Number (Without Built-in Functions)   ***(status: Completed✔)***
 ##### 25) Check if Number is Perfect Number                 ***(status: Completed✔)***
 
-## Day13:
+## Day13: i miss that day programs
 ##### 26) Find All Divisors of a Number   ***(status: Incomplete❌)***
 ##### 27) Convert Binary to Decimal      ***(status: Incomplete❌)***
 
