@@ -59,7 +59,7 @@
 
 ## Day15:
 ##### 30) ASCII Value Operations      ***(status:  Completed✔)***
-##### 31) Calculate Compound Interest ***(status: Incomplete❌)***
+##### 31) Calculate Compound Interest ***(status:  Completed✔)***
 
 ---
 
