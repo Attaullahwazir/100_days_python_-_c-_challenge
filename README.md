@@ -58,7 +58,7 @@
 ##### 29) Convert Decimal to Hexadecimal   ***(status: Completed✔)***
 
 ## Day15:
-##### 30) ASCII Value Operations      ***(status: Incomplete❌)***
+##### 30) ASCII Value Operations      ***(status:  Completed✔)***
 ##### 31) Calculate Compound Interest ***(status: Incomplete❌)***
 
 ---
