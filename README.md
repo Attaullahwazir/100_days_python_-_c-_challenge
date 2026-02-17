@@ -50,8 +50,8 @@
 ##### 25) Check if Number is Perfect Number                 ***(status: Completed✔)***
 
 ## Day13: i miss that day programs
-##### 26) Find All Divisors of a Number   ***(status: Incomplete❌)***
-##### 27) Convert Binary to Decimal      ***(status: Incomplete❌)***
+##### 26) Find All Divisors of a Number   ***(status: Completed✔)***
+##### 27) Convert Binary to Decimal      ***(status: Completed✔)***
 
 ## Day14:
 ##### 28) Convert Decimal to Binary        ***(status: Completed✔)***
